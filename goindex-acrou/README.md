@@ -117,7 +117,7 @@ audio: {
 
 ## Change log
 
-### v2.0.9
+### v3.0.9
 
 - Fix image file actions does not work [#100](https://github.com/Aicirou/goindex-theme-acrou/issues/100)
 - Fix misjudged file to image format [#88](https://github.com/Aicirou/goindex-theme-acrou/issues/88)
