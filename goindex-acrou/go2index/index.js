@@ -67,7 +67,7 @@ var authConfig = {
 var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/IlyadKruger/goindex",
   // 主题版本号
-  version: "2.0.9-darkmode-0.1",
+  version: "3.0.9-darkmode-0.1",
   //可选默认系统语言:en/zh-chs/zh-cht
   languages: "en",
   render: {
